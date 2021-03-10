@@ -6,4 +6,4 @@ Data Science project:
 Using ACN-Data
 
 -data manipulation
--modellierung
+-modelling
