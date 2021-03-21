@@ -1,9 +1,9 @@
 # Studienarbeit
 Data Science project:
 
-"Entwicklung eines Prognosemodells zur Bestimmung der Verfügbarkeit von Elektrofahrzeugen zur Netzdienstleistung"
+"Development of a forecasting model to determine the availability of Electric vehicles for grid service"
 
-Using ACN-Data
+Using ACN-Data : https://ev.caltech.edu/dataset
 
 -data manipulation
 -modelling
