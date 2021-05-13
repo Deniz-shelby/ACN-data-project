@@ -3,6 +3,7 @@
 .AppleDouble
 .LSOverride
 *.csv
+*.json
 .vscode
 
 # Byte-compiled / optimized / DLL files
